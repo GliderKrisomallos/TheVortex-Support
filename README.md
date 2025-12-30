@@ -1,6 +1,6 @@
 # The Vortex-Support
 
-# Privacy Policy for PressVortex
+# Privacy Policy for The Vortex App
 
 Last updated: 2025-12-30
 
