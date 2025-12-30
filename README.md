@@ -16,8 +16,9 @@ By accessing or using our mobile application, you signify that you have read, un
 
 Our app requires access to your device's microphone to enable the core "Vortex" interaction feature (e.g., analyzing sound levels to trigger visual effects).
 
-* Processing: All audio data is processed locally on your device in real-time.
-* Storage: We do not record, save, store, or transmit any audio data to external servers.
+**Processing:** All audio data is processed locally on your device in real-time.
+
+**Storage:** We do not record, save, store, or transmit any audio data to external servers.
 
 The data is ephemeral and is discarded immediately after processing.
 
