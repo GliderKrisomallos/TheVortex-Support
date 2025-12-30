@@ -14,8 +14,10 @@ By accessing or using our mobile application, you signify that you have read, un
 
 Our app requires access to your device's microphone to enable the core "Vortex" interaction feature (e.g., analyzing sound levels to trigger visual effects).
 
-**Processing:** All audio data is processed locally on your device in real-time.
-**Storage:** We do not record, save, store, or transmit any audio data to external servers. The data is ephemeral and is discarded immediately after processing.
+* Processing: All audio data is processed locally on your device in real-time.
+* Storage: We do not record, save, store, or transmit any audio data to external servers.
+
+The data is ephemeral and is discarded immediately after processing.
 
 
 **B. Advertising Data (AdMob)**
@@ -24,12 +26,14 @@ We use Google AdMob to display advertisements in our app. AdMob may collect and 
 
 * IP address
 * Device identifiers (e.g., Advertising ID)
-* Usage data and interactions with ads For more information on how Google uses detailed data, please visit Google's Privacy & Terms.
+* Usage data and interactions with ads
+
+For more information on how Google uses detailed data, please visit Google's Privacy & Terms.
 
 
 **C. In-App Purchases**
 
-We offer virtual goods (Tokens) for purchase via Apple App Store and Google Play Store.
+We offer virtual goods (Tokens) for purchase via the Apple App Store and the Google Play Store.
 
 **Transactions:** Financial transactions are handled entirely by the respective app store platforms. We do not process or store your credit card or banking information.
 
@@ -41,7 +45,9 @@ We offer virtual goods (Tokens) for purchase via Apple App Store and Google Play
 We use local storage on your device (e.g., Shared Preferences) to save your:
 
 * App settings (e.g., sound preferences, theme)
-* Game progress (e.g., token balance) This data is stored only on your device and is not synced to our servers.
+* Game progress (e.g., token balance)
+
+This data is stored only on your device and is not synced to a server.
 
 
 ## 2. Sharing of Your Information
