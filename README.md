@@ -1,5 +1,7 @@
 # The Vortex-Support
-Privacy Policy for PressVortex
+
+# Privacy Policy for PressVortex
+
 Last updated: 2025-12-30
 
 The Vortex App ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by The Vortex.
